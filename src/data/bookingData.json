@@ -1,24 +1,24 @@
 {
     "validBooking" : {
-        "firstName": "John",
-        "lastName": "Doe",
-        "totalPrice": 150,
-        "depositPaid": true,
-        "bookingDates": {
-            "checkIn": "2024-11-01",
-            "checkOut": "2024-11-05"
+        "firstname": "John",
+        "lastname": "Doe",
+        "totalprice": 150,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-11-01",
+            "checkout": "2024-11-05"
         },
-        "additionalNeeds": "Late Checkout"
+        "additionalneeds": "Late Checkout"
     },
     "updateBooking":{
-        "firstName": "Jane",
-        "lastName": "Smith",
-        "totalPrice": 200,
-        "depositPaid": false,
-        "bookingDates": {
-            "checkIn": "2024-11-01",
-            "checkOut": "2024-11-07"
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "totalprice": 200,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-11-01",
+            "checkout": "2024-11-07"
         },
-        "additionalNeeds": "Breakfast Included"
+        "additionalneeds": "Breakfast Included"
     }
 }
