@@ -1,5 +1,5 @@
 import {APIRequestContext, APIResponse} from '@playwright/test';
-import {BookingPayload} from '../models/Booking.ts'
+import {BookingPayload} from '../models/Booking'
 
 export class BookingClient {
     constructor(private readonly request: APIRequestContext) {}
