@@ -20,5 +20,10 @@
             "checkout": "2024-11-07"
         },
         "additionalneeds": "Breakfast Included"
+    },
+    "malformedBooking": {
+        "firstname": "BadPayload",
+        "totalprice": 0,
+        "depositpaid": false
     }
 }
