@@ -1,8 +1,6 @@
 import {test, expect} from '../fixtures/ApiFixture';
 import { BookingResponse, BookingPayload } from '../src/models/Booking';
 import testData from '../src/data/bookingData.json';
-import { ok } from 'node:assert';
-import { after } from 'node:test';
 
 test.describe('Hotel Reservation State Engine: ', () =>{
 
