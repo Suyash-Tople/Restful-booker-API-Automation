@@ -17,3 +17,8 @@ export interface BookingResponse {
     booking: BookingPayload;
 }
 
+export interface APIErrorResponse{
+    status: number;
+    message: string;
+}
+
